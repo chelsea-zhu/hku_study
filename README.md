@@ -1,3 +1,3 @@
 # hku_study
-applied ml
-nothing important
+for applied ml
+achieve more!
